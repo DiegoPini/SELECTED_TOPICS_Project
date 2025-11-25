@@ -40,3 +40,11 @@
 - Effects of noise and augmentation
 
 ### 8️⃣ Perform error analysis to identify possible improvements
+
+
+###
+Collaborators
+Diego Pini
+Stefano Liera
+Matteo Benzo
+Andrea Arosio
