@@ -42,8 +42,7 @@
 ### 8️⃣ Perform error analysis to identify possible improvements
 
 
-###
-Collaborators
+### Collaborators
 Diego Pini
 Stefano Liera
 Matteo Benzo
