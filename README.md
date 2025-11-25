@@ -43,7 +43,7 @@
 
 
 ### Collaborators
-Diego Pini
-Stefano Liera
-Matteo Benzo
-Andrea Arosio
+- Diego Pini
+- Stefano Liera
+- Matteo Benzo
+- Andrea Arosio
